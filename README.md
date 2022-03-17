@@ -1,6 +1,6 @@
 # Retrive-data-from-api
 
-  // creating a javascript array to store the value
+      // creating a javascript array to store the value
       const userDetail = { name: user.name, img: user.img };
       
       // storing the value in previous defined array
